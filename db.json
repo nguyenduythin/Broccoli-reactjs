@@ -1,0 +1,315 @@
+{
+  "products": [
+    {
+      "name": "Bơ mê linh",
+      "qty": 1,
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-f403b.appspot.com/o/image%2F4.png?alt=media&token=eb0ce701-fb63-45a4-b12b-1bffa00b7dca",
+      "price": "600",
+      "description": "payment Platinum compressing",
+      "quantity": "12",
+      "categoriesID": "1",
+      "id": "2"
+    },
+    {
+      "name": "Măc cụt chín",
+      "qty": 1,
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-f403b.appspot.com/o/image%2F6.png?alt=media&token=9dc5c77e-b569-45af-a4c4-75bf5aca222c",
+      "price": "2000",
+      "description": "sản xuất từ thiên nhiên                        ",
+      "quantity": "10",
+      "categoriesID": "2",
+      "id": "pmw5a80fz"
+    },
+    {
+      "name": "Xoài Hà nội",
+      "qty": 1,
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-f403b.appspot.com/o/image%2F16.png?alt=media&token=9c214e0c-0795-4dcd-874b-85feeceb073f",
+      "price": "1000",
+      "description": "táo sản xuất từ hà nội  ",
+      "quantity": "12",
+      "categoriesID": "2",
+      "id": "avxo866qe"
+    },
+    {
+      "id": "avs5s7xw3",
+      "qty": 1,
+      "name": "Qủa đào Tây",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-f403b.appspot.com/o/image%2F5.png?alt=media&token=3da5f6a0-2f22-46d4-8051-51e242638044",
+      "categoriesID": "9a365d1a-f016-4ace-8d71-3fa0569db230",
+      "price": "2230",
+      "description": " đồ ăn nấu sẵn dành cho sinh viên",
+      "quantity": "2"
+    },
+    {
+      "name": "quả lê",
+      "price": "333",
+      "qty": 1,
+      "quantity": "333",
+      "categoriesID": "B2DHRJ0",
+      "description": "333",
+      "id": "p9j2FM1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-f403b.appspot.com/o/image%2F2.png?alt=media&token=4b0013f5-0d38-4f99-8924-ee1be9822790"
+    },
+    {
+      "name": "moi nhat",
+      "qty": 1,
+      "price": "123",
+      "quantity": "123",
+      "categoriesID": "B2DHRJ0",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-f403b.appspot.com/o/image%2F3.png?alt=media&token=a792ddcd-b34b-4f85-93d6-f1d21748a5ac",
+      "description": "1233",
+      "id": "L6dPryW"
+    },
+    {
+      "qty": 1,
+      "name": "chanh leo",
+      "price": "123",
+      "quantity": "123",
+      "categoriesID": "1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-f403b.appspot.com/o/image%2F14.png?alt=media&token=b0032d31-ff4e-4a84-b7ee-a7144c0f23b1",
+      "description": "hang xin đấy",
+      "id": "aPv8zB5"
+    },
+    {
+      "name": "Cam tươiaaaa",
+      "qty": 1,
+      "price": "1",
+      "quantity": "266666",
+      "categoriesID": "B2DHRJ0",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-f403b.appspot.com/o/image%2F12.png?alt=media&token=7ee88b1d-2e64-4446-ad7f-d06b189f6414",
+      "description": "êfè",
+      "id": "BiBRjMw"
+    },
+    {
+      "name": "chanh leo Lạng sơn",
+      "qty": 1,
+      "price": "234234",
+      "quantity": "11",
+      "categoriesID": "9a365d1a-f016-4ace-8d71-3fa0569db230",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-f403b.appspot.com/o/image%2F13.png?alt=media&token=c6fc3719-098d-4455-b065-ab9a19fea9d2",
+      "description": "táo to ta ăn táo tất tần tật",
+      "id": "VBhJu7s"
+    },
+    {
+      "name": "Rau cải bắp xịn",
+      "price": "16000",
+      "quantity": "2",
+      "categoriesID": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-f403b.appspot.com/o/image%2F15.png?alt=media&token=ff20752e-326b-4e59-9383-0facbc4dd697",
+      "description": "sản phẩm tươi sạch sản xuất tại mê linh",
+      "qty": 1,
+      "id": "wwJT0HR"
+    },
+    {
+      "name": "Cam Hà nội",
+      "price": "5000",
+      "quantity": "12",
+      "categoriesID": "9a365d1a-f016-4ace-8d71-3fa0569db230",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-f403b.appspot.com/o/image%2F11.png?alt=media&token=67fd8436-2d2d-4834-9577-9d9c730f3d28",
+      "description": "cam bán theo tấn mua thì mua không mua vẫn mua!",
+      "qty": 1,
+      "id": "6Xsvb2o"
+    },
+    {
+      "name": "carot miền nam",
+      "price": "4500",
+      "quantity": "3",
+      "categoriesID": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-f403b.appspot.com/o/image%2F8.png?alt=media&token=fa2b1ab0-85de-4877-bb4b-c5cade342982",
+      "description": "ca rot tươis",
+      "qty": 1,
+      "id": "UYVxTDT"
+    },
+    {
+      "name": "rau ngót",
+      "price": "6000",
+      "quantity": "6",
+      "categoriesID": "B2DHRJ0",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-f403b.appspot.com/o/image%2F15.png?alt=media&token=9be4f5a1-02fd-4c5a-92b4-764edb474ce2",
+      "description": "rau ngót hà nội",
+      "qty": 1,
+      "id": "elMaQdh"
+    },
+    {
+      "name": "Qủa này mới",
+      "price": "45555",
+      "quantity": "4",
+      "categoriesID": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-f403b.appspot.com/o/image%2F9.png?alt=media&token=4ad1d93f-a6a3-48a8-989f-dd3ad45b622a",
+      "description": "chất lượng đấy",
+      "qty": 1,
+      "id": "3m0eyiP"
+    },
+    {
+      "name": "Rau tươi hà lan",
+      "price": "34000",
+      "quantity": "2",
+      "categoriesID": "9a365d1a-f016-4ace-8d71-3fa0569db230",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-f403b.appspot.com/o/image%2F15.png?alt=media&token=9214524b-26b3-4c87-b83a-a9ea32b0fa06",
+      "description": "ewẻwẻwẻwẻwẻ",
+      "qty": 1,
+      "id": "deSDbun"
+    },
+    {
+      "name": "Thịt vịt mĩ ",
+      "price": "500000",
+      "quantity": "30",
+      "categoriesID": "B2DHRJ0",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-f403b.appspot.com/o/image%2F8.png?alt=media&token=ab256fbc-c6b0-4978-81c7-b39a1554c87a",
+      "description": "sản phẩm oke mà sao không mua",
+      "qty": 1,
+      "id": "cJ5HAF7"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "thực phẩm"
+    },
+    {
+      "name": "rau củ",
+      "id": "2"
+    },
+    {
+      "name": "Thịt Tươi",
+      "id": "B2DHRJ0"
+    },
+    {
+      "id": "9a365d1a-f016-4ace-8d71-3fa0569db230",
+      "name": "Hoa Quả "
+    }
+  ],
+  "user": [
+    {
+      "fsname": "vy",
+      "lsname": "huy1",
+      "email": "thinduy@gmail.com",
+      "password": "123",
+      "role": "999",
+      "id": "1"
+    },
+    {
+      "fsname": "vy",
+      "lsname": "huy2",
+      "email": "huy@gmail.com",
+      "password": "1234",
+      "role": "0",
+      "id": "3"
+    },
+    {
+      "fsname": "vy",
+      "lsname": "huy3",
+      "email": "thinduy@gmail.com",
+      "password": "1234",
+      "role": "0",
+      "id": "tmjo4qj2b"
+    },
+    {
+      "fsname": "vy",
+      "lsname": "huy133",
+      "email": "admin@gmail.com",
+      "password": "admin",
+      "role": "0",
+      "id": "tmjo4qj223b"
+    },
+    {
+      "fsname": "thinduy",
+      "lsname": "nguyen",
+      "email": "thin@gmail.com",
+      "password": "123",
+      "role": "0",
+      "passwordConfirm": "123",
+      "id": "3ONfguc"
+    }
+  ],
+  "contacts": [
+    {
+      "nameContact": "dang van huy",
+      "emailContact": "huy@gmail.com",
+      "serviceContact": "Vegetables Growing",
+      "phoneContact": "036364554",
+      "messageContact": "san pham cua toi bi loi roi",
+      "id": "1LAKzrL"
+    },
+    {
+      "nameContact": "nguyen duy trang",
+      "emailContact": "trang@gmail.com",
+      "serviceContact": "Gardening",
+      "phoneContact": "0336125695",
+      "messageContact": "lam được cũng ít quá cơ",
+      "id": "imPWdeo"
+    }
+  ],
+  "invoices": [
+    {
+      "fsname": "234",
+      "lsname": "123",
+      "email": "thinduy@gmail.com",
+      "phone": "123",
+      "address": "xóm đê , mạnh trữ",
+      "city": "hà nội",
+      "note": "12345",
+      "payment": "Via paypal",
+      "idProduct": "avs5s7xw3,pmw5a80fz",
+      "total": "4,260",
+      "id": "4_Vwvw4"
+    },
+    {
+      "fsname": "bui hung",
+      "lsname": "van",
+      "email": "hung@gmail.com",
+      "phone": "03361554545",
+      "address": "xóm lang , me linh",
+      "city": "hà nội",
+      "note": "ship nhanh cho toi",
+      "payment": "Via paypal",
+      "idProduct": "2,pmw5a80fz,avxo866qe",
+      "total": "3,630",
+      "id": "TbNhnOW"
+    }
+  ],
+  "comment": [
+    {
+      "idProduct": "2",
+      "content": "sản phẩm này ok lắm",
+      "name": "thinduy",
+      "email": "thin@gamiu",
+      "id": "5jSIVac"
+    },
+    {
+      "idProduct": "2",
+      "content": "quả này tốt lắm nhé mọi người",
+      "name": "ẩn danh",
+      "email": "andanh@gmail.com",
+      "id": "_b59jJY"
+    },
+    {
+      "idProduct": "avxo866qe",
+      "content": "xoài thơm ngon ghê",
+      "name": "johnmeichal",
+      "email": "john@gmail.com",
+      "id": "fGH91Ka"
+    },
+    {
+      "idProduct": "avxo866qe",
+      "content": "chất lượng tốt",
+      "name": "thúy",
+      "email": "thuy@gmail.com",
+      "id": "FnaC8iz"
+    },
+    {
+      "idProduct": "pmw5a80fz",
+      "content": "quar nay ok qua di",
+      "name": "minh duc",
+      "email": "duck@gmail.com",
+      "id": "dyPyIvq"
+    },
+    {
+      "idProduct": "avs5s7xw3",
+      "content": "sdfsdfds",
+      "name": "nam",
+      "email": "nam@gmail.com",
+      "id": "5aULTcr"
+    }
+  ]
+}
